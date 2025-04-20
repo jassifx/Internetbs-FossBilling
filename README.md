@@ -171,7 +171,7 @@ Feel free to fork this repository and customize or extend functionality. Please 
 
 ## License
 
-MIT License. Free to use, modify, distribute, and extend.
+GPL License. Free to use, modify, distribute, and extend.
 
 ---
 
