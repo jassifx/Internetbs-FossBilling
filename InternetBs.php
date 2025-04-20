@@ -25,7 +25,7 @@ class InternetBs extends AdapterAbstract
                 'label' => 'InternetBs Registrar',
                 'description' => 'Integration module for Internet.bs domain registrar',
                 'author' => 'Jaspreet Singh',
-                'version' => '1.0.0',
+                'version' => '1.1.0',
             ],
             'form' => [
                 'apiKey' => [
