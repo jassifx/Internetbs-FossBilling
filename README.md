@@ -10,7 +10,7 @@ This module integrates FOSSBilling with the Internet.bs domain registrar API, en
 
 - **Compatibility:** PHP 8.3+
 - **API Version:** InternetBS API (RESTful JSON API)
-- **License:** Open-source (MIT License)
+- **License:** Open-source (GPL3.0 License)
 
 ## Table of Contents
 
